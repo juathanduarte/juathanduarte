@@ -1,5 +1,5 @@
 
-### Olá 👋, eu sou o  [Juathan Coelho Duarte]() 👨‍💻
+### Olá 👋, eu sou o  [juathanduarte]() 👨‍💻
 
 
 
