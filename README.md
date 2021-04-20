@@ -6,7 +6,7 @@
 
 💚 Conselheiro de Gestão de pessoas na **[Hut8 - Empresa Júnior da Computação](http://www.hut8.com.br/)**
 
-✊ Diretor de comunicação do **[Diretório Acadêmico Blaise Pascal](https://www.instagram.com/dabp_computacao/)**
+✊ Diretor de comunicação no **[Diretório Acadêmico Blaise Pascal](https://www.instagram.com/dabp_computacao/)**
 
 ### Sobre mim :eyes:
 
