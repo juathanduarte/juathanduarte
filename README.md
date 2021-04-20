@@ -11,11 +11,11 @@ Atualmente estou me especializando em Front-end com ReactJS & React-Native.
 
 <a href="mailto:juathan.cduarte@inf.ufpel.edu.br">
  <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white" />
-</a>
+</a><br>
 
 <a href="https://twitter.com/juatss">
  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-</a><br>
+</a>
 
 <a href="https://www.instagram.com/juatss/">
  <img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
