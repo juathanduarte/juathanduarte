@@ -1,11 +1,10 @@
 
-### Olá 👋, eu sou o  [juathanduarte]() 👨‍💻
+### Olá 👋, me chamo Juathan Coelho Duarte 👨‍💻
 
 
+👨‍🎓 Graduando em Ciência da Computação pela **[Universidade Federal de Pelotas](https://portal.ufpel.edu.br/)** 
 
-:smiley: Technical member of **[Team KJSCE Robocon](https://kjscerobocon.tech/)** 
-
-👨‍🎓 B.Tech in information technology from the **[K.J Somaiya college of engineering](https://kjsce.somaiya.edu/en)** 
+💚 Front-end & Conselheiro de Gestão de pessoas na **[Hut8 - Empresa Júnior da Computação](http://www.hut8.com.br/)** 
 
 ### About me :eyes:
 
