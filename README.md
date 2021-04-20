@@ -6,6 +6,7 @@ Meu nome é Juathan Coelho Duarte, sou apaixonado por programação, design, mua
 Atualmente estou me especializando em Front-end com ReactJS & React-Native.
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=juathanduarte)
+
 <a href="https://www.linkedin.com/in/juathanduarte/">
  <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" />
 </a>
