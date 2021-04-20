@@ -1,6 +1,6 @@
 ### Faaaaaaaaala dev 👋
 - 🎓 Graduando em Ciência da Computação pela Universidade Federal de Pelotas
-- 🎯 Atualmente direciono meus estudos as linguagens: HTML, CSS e JavaScript.
+- 🎯 Atualmente direciono meus estudos em ReactJS (e seus frameworks) & React-Native.
 # Juathan Duarte
 Meu nome é Juathan Coelho Duarte, sou apaixonado por programação, design, muay thai, games e um bom chimarrão.
 Atualmente estou me especializando em Front-end com ReactJS & React-Native.
@@ -29,4 +29,5 @@ Atualmente estou me especializando em Front-end com ReactJS & React-Native.
 - Aprender algo novo todos os dias.
 
 ### 📚 O que estou aprendendo
+
 - HTML5 | CSS3 | JavaScript | Java
