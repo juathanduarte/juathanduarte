@@ -14,7 +14,7 @@ Atualmente estou me especializando em Front-end com ReactJS & React-Native.
 </a><br>
 
 <a href="https://twitter.com/juatss">
- <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+ <img src="https://img.shields.io/twitter/url?style=social" />
 </a>
 
 <a href="https://www.instagram.com/juatss/">
