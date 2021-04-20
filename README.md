@@ -29,4 +29,4 @@ Atualmente estou me especializando em Front-end com ReactJS & React-Native.
 - Aprender algo novo todos os dias.
 
 ### 📚 O que estou aprendendo
-HTML5 • CSS3 • JavaScript • Java
+- HTML5 • CSS3 • JavaScript • Java
