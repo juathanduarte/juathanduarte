@@ -18,13 +18,4 @@
 
 ### Languages and Tools :computer:
 
-- Java
-- C
-- JavaScript
-- TypeScript
-- HTML5
-- CSS3
-- ReactJS
-- React Native
-- Git
-- GitHub
+Java - C - JavaScript - TypeScript - HTML5 - CSS3 - ReactJS - React Native - Git - GitHub
