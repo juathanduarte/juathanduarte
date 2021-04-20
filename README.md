@@ -4,16 +4,17 @@
 
 👨‍🎓 Graduando em Ciência da Computação pela **[Universidade Federal de Pelotas](https://portal.ufpel.edu.br/)** 
 
-💚 Front-end & Conselheiro de Gestão de pessoas na **[Hut8 - Empresa Júnior da Computação](http://www.hut8.com.br/)** 
+💚 Conselheiro de Gestão de pessoas na **[Hut8 - Empresa Júnior da Computação](http://www.hut8.com.br/)**
 
-### About me :eyes:
+✊ Diretor de comunicação do **[Diretório Acadêmico Blaise Pascal](https://www.instagram.com/dabp_computacao/)**
 
-- :dart: Full stack development | Machine learning | Deep learning | Computer vision | Matlab simulation   
-- :heart: Open source contributor at **[GSSOC'20](https://www.gssoc.tech/)**
-- :writing_hand: Writing blogs on  **[Medium](https://medium.com/@hritik.jaiswal)** and solving bugs in **[StackOverflow](https://stackoverflow.com/users/11890231/hritik-jaiswal)**
-- :e-mail: Ask me about anything ; **[hritik.jaiswal@somaiya.edu](hritik.jaiswal@somaiya.edu)**
+### Sobre mim :eyes:
 
-![Hritik's github stats](https://github-readme-stats.vercel.app/api?username=hritik5102&show_icons=true&hide_border=true)
+- :dart: Front-end & Dev Mobile Android   
+- :heart: Apaixonado por programação, design, muay thai, games e um bom chimarrão.
+- :e-mail: Qualquer dúvida ; **[juathan.cduarte@inf.ufpel.edu.br](juathan.cduarte@inf.ufpel.edu.br)**
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juathanduarte)](https://github.com/juathanduarte/github-readme-stats)
 
 ### Languages and Tools :computer:
 
