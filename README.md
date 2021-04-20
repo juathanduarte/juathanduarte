@@ -1,4 +1,4 @@
-### Fala ai 👋
+### Faaaaaaaaala dev 👋
 - 🎓 Graduando em Ciência da Computação pela Universidade Federal de Pelotas
 - 🎯 Atualmente direciono meus estudos as linguagens: HTML, CSS e JavaScript.
 # Juathan Duarte
@@ -29,4 +29,4 @@ Atualmente estou me especializando em Front-end com ReactJS & React-Native.
 - Aprender algo novo todos os dias.
 
 ### 📚 O que estou aprendendo
-- HTML5 • CSS3 • JavaScript • Java
+- HTML5 | CSS3 | JavaScript | Java
