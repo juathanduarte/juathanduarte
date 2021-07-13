@@ -4,7 +4,7 @@
 
 👨‍🎓 Graduando em Ciência da Computação pela **[Universidade Federal de Pelotas](https://portal.ufpel.edu.br/)** 
 
-💚 Conselheiro de Gestão de pessoas na **[Hut8 - Empresa Júnior da Computação](http://www.hut8.com.br/)**
+💚 Diretor de Gestão de pessoas na **[Hut8 - Empresa Júnior da Computação](http://www.hut8.com.br/)**
 
 ✊ Diretor de comunicação no **[Diretório Acadêmico Blaise Pascal](https://www.instagram.com/dabp_computacao/)**
 
