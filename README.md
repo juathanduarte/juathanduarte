@@ -6,8 +6,6 @@
 
 💚 Diretor de Gestão de pessoas na **[Hut8 - Empresa Júnior da Computação](http://www.hut8.com.br/)**
 
-✊ Diretor de Comunicação no **[Diretório Acadêmico Blaise Pascal](https://www.instagram.com/dabp_computacao/)**
-
 ### Sobre mim :eyes:
 
 - :dart: Front-end & Dev Mobile Android   
