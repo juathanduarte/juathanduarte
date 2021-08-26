@@ -1,19 +1,37 @@
+## Hi! I'm Juathan Coelho Duarte 👋
 
-### Olá 👋 me chamo Juathan Coelho Duarte 👨‍💻
+👨‍🎓 Majoring in Computer Science in **[Universidade Federal de Pelotas](https://portal.ufpel.edu.br/)** 
 
+💚 Director of People Management at **[Hut8 - Empresa Júnior da Computação](http://www.hut8.com.br/)**
 
-👨‍🎓 Graduando em Ciência da Computação pela **[Universidade Federal de Pelotas](https://portal.ufpel.edu.br/)** 
-
-💚 Diretor de Gestão de pessoas na **[Hut8 - Empresa Júnior da Computação](http://www.hut8.com.br/)**
-
-### Sobre mim :eyes:
+### About me :eyes:
 
 - :dart: Front-end & Dev Mobile Android   
-- :heart: Apaixonado por programação, design, muay thai, games e um bom chimarrão.
-- :e-mail: Qualquer dúvida: **[juathan.cduarte@inf.ufpel.edu.br](juathan.cduarte@inf.ufpel.edu.br)**
+- :heart: Passionate about programming, design, muay thai, games and a good chimarrão.
+- :e-mail: Any doubt: **[juathan.cduarte@inf.ufpel.edu.br](juathan.cduarte@inf.ufpel.edu.br)**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juathanduarte)](https://github.com/juathanduarte/github-readme-stats)
-
-### Languages and Tools :computer:
-
-Java - C - JavaScript - TypeScript - HTML5 - CSS3 - ReactJS - React Native - Git - GitHub
+ <div>
+  <a href="https://github.com/juathanduarte">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juathanduarte&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juathanduarte&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Juats-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Juats-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Juats-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Juats-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/git/git-original.svg">
+  <img align="center" alt="Juats-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/github/github-original-wordmark.svg">
+  <img align="center" alt="Juats-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Juats-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Juats-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/c/c-original.svg">
+  <img align="center" alt="Juats-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/linux/linux-original.svg">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://www.instagram.com/juatss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/borestt1" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href = "mailto:juathanduarte13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/juathanduarte/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
