@@ -1,12 +1,12 @@
 ## Hi! I'm Juathan Coelho Duarte 👋
 
-👨‍🎓 Majoring in Computer Science in **[Universidade Federal de Pelotas](https://portal.ufpel.edu.br/)** 
+👨‍🎓 Graduating in Computer Science in **[Universidade Federal de Pelotas](https://portal.ufpel.edu.br/)** 
 
 💚 Director of People Management at **[Hut8 - Empresa Júnior da Computação](http://www.hut8.com.br/)**
 
 ### About me :eyes:
 
-- :dart: Front-end & Dev Mobile Android   
+- :dart: Front-end & Dev Mobile Android.
 - :heart: Passionate about programming, design, muay thai, games and a good chimarrão.
 - :e-mail: Any doubt: **[juathan.cduarte@inf.ufpel.edu.br](juathan.cduarte@inf.ufpel.edu.br)**
 
