@@ -1,6 +1,8 @@
 ## Hi! I'm Juathan Coelho Duarte 👋
 
-👨‍🎓 Graduating in Computer Science in **[Universidade Federal de Pelotas](https://portal.ufpel.edu.br/)** 
+👨‍🎓 Undergraduate in Computer Science in **[Universidade Federal de Pelotas](https://portal.ufpel.edu.br/)** 
+
+📚 Scholarship at **[PET Computação](https://www.instagram.com/computacao.ufpel/)**
 
 💚 Director of People Management at **[Hut8 - Empresa Júnior da Computação](http://www.hut8.com.br/)**
 
@@ -30,7 +32,6 @@
  
 <div> 
   <a href="https://www.instagram.com/juatss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/borestt1" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:juathanduarte13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/juathanduarte/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
