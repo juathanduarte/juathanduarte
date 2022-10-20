@@ -4,8 +4,6 @@
 
 📚 Scholarship at **[PET Computação](https://www.instagram.com/computacao.ufpel/)**
 
-💚 Director of People Management at **[Hut8 - Empresa Júnior da Computação](http://www.hut8.com.br/)**
-
 ### About me :eyes:
 
 - :dart: Front-end & Dev Mobile Android.
