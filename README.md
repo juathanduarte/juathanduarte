@@ -24,9 +24,7 @@
   </a>
 </div>
 
-##
-
-## :eyes: Sobre mim :eyes:
+### :eyes: Sobre mim :eyes:
   👨‍🎓 Estudante de Ciência da Computação na Universidade Federal de Pelotas.
   
   📚 Bolsista no PET Computação.
@@ -35,9 +33,7 @@
   
   ❤️ Apaixonado por tecnologia, design, jogos, esportes e um bom chimarrão.
 
-##
-
-## ⚙️ Ferramentas e tecnologias ⚙️
+### ⚙️ Ferramentas e tecnologias ⚙️
 
 <table>
   <tr>
