@@ -1,8 +1,11 @@
-# 👋 𝙾𝚕𝚊́! 𝚂𝚘𝚞 𝚘 𝙹𝚞𝚊𝚝𝚑𝚊𝚗 𝙲𝚘𝚎𝚕𝚑𝚘 𝙳𝚞𝚊𝚛𝚝𝚎.
+# 👋 Olá! Sou o Juathan Coelho Duarte.
 
 <div align="center" width="100%">
   <a href="mailto:juathanduarte13@gmail.com">
     <img align="center" alt="Juathan's Mail" height="30px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/5553999515492">
+    <img align="center" alt="Juathan's WhatsApp" height="30px" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/juathanduarte/">
     <img align="center" alt="Juathan's Linkdein" height="30px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
@@ -23,28 +26,52 @@
 
 ##
 
-### 𝚂𝚘𝚋𝚛𝚎 𝚖𝚒𝚖 :eyes:
-  👨‍🎓 𝙴𝚜𝚝𝚞𝚍𝚊𝚗𝚝𝚎 𝚍𝚎 𝙲𝚒𝚎̂𝚗𝚌𝚒𝚊 𝚍𝚊 𝙲𝚘𝚖𝚙𝚞𝚝𝚊𝚌̧𝚊̃𝚘 𝚗𝚊 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚍𝚊𝚍𝚎 𝙵𝚎𝚍𝚎𝚛𝚊𝚕 𝚍𝚎 𝙿𝚎𝚕𝚘𝚝𝚊𝚜. 
+## :eyes: Sobre mim :eyes:
+  👨‍🎓 Estudante de Ciência da Computação na Universidade Federal de Pelotas.
   
-  📚 𝙱𝚘𝚕𝚜𝚒𝚜𝚝𝚊 𝚗𝚘 𝙿𝙴𝚃 𝙲𝚘𝚖𝚙𝚞𝚝𝚊𝚌̧𝚊̃𝚘. 
+  📚 Bolsista no PET Computação.
   
-  🎯 𝙳𝚎𝚜𝚎𝚗𝚟𝚘𝚕𝚟𝚎𝚍𝚘𝚛 𝙵𝚛𝚘𝚗𝚝-𝚎𝚗𝚍 & 𝙼𝚘𝚋𝚒𝚕𝚎. 
+  🎯 Desenvolvedor Front-end & Mobile.
   
-  ❤️ 𝙰𝚙𝚊𝚒𝚡𝚘𝚗𝚊𝚍𝚘 𝚙𝚘𝚛 𝚝𝚎𝚌𝚗𝚘𝚕𝚘𝚐𝚒𝚊, 𝚍𝚎𝚜𝚒𝚐𝚗, 𝚓𝚘𝚐𝚘𝚜, 𝚎𝚜𝚙𝚘𝚛𝚝𝚎𝚜 𝚎 𝚞𝚖 𝚋𝚘𝚖 𝚌𝚑𝚒𝚖𝚊𝚛𝚛𝚊̃𝚘.
+  ❤️ Apaixonado por tecnologia, design, jogos, esportes e um bom chimarrão.
 
 ##
 
- 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Juats-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Juats-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Juats-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Juats-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Juats-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/c/c-original.svg">
-  <img align="center" alt="Juats-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/git/git-original.svg">
-  <img align="center" alt="Juats-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/github/github-original-wordmark.svg">
-  <img align="center" alt="Juats-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/linux/linux-original.svg">
-</div>
-  
- ##
- 
+## ⚙️ Ferramentas e tecnologias ⚙️
+
+<table style="width:100%">
+  <tr>
+    <th>Front-end</th>
+    <th>Mobile</th>
+    <th>Outros</th>
+  </tr>
+  <tr>
+    <td>
+      <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+      <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+      <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+      <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+      <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+      <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
+    </td>
+    <td>
+      <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    </td>
+    <td>
+      <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+      <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+      <img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+      <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+      <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+      <img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+      <img alt="Power Point" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
+      <img alt="Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
+      <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+      <img alt="Linux" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" />
+      <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+    </td>
+  </tr>
+</table>
+<br/>
