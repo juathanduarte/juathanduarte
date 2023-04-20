@@ -25,13 +25,13 @@
 </div>
 
 ### :eyes: Sobre mim :eyes:
-  👨‍🎓 Estudante de Ciência da Computação na Universidade Federal de Pelotas.
+  - 👨‍🎓 Estudante de Ciência da Computação na Universidade Federal de Pelotas.
   
-  📚 Bolsista no PET Computação.
+  - 📚 Bolsista no PET Computação.
   
-  🎯 Desenvolvedor Front-end & Mobile.
+  - 🎯 Desenvolvedor Front-end & Mobile.
   
-  ❤️ Apaixonado por tecnologia, design, jogos, esportes e um bom chimarrão.
+  - ❤️ Apaixonado por tecnologia, design, jogos, esportes e um bom chimarrão.
 
 ### ⚙️ Ferramentas e tecnologias ⚙️
 
