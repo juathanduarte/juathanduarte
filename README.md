@@ -10,18 +10,6 @@
   <a href="https://www.linkedin.com/in/juathanduarte/">
     <img align="center" alt="Juathan's Linkdein" height="30px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/juatss">
-    <img align="center" alt="Juathan's Twitter" height="30px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/juatss/">
-    <img align="center" alt="Juathan's Instagram" height="30px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://open.spotify.com/user/12146002194?si=5a0fa9bb01534220">
-    <img align="center" alt="Juathan's Spotify" height="30px" src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=Spotify&logoColor=white" />
-  </a>
-  <a href="https://discordapp.com/users/237684020786364418/">
-    <img align="center" alt="Juathan's Discord" height="30px" src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=Discord&logoColor=white" />
-  </a>
 </div>
 
 ### :eyes: Sobre mim :eyes:
