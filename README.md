@@ -1,4 +1,4 @@
-# 👋 Olá! Me chamo Juathan, mas pode me chamar de Juats!
+## Hello! My name is Juathan, but you can call me Juats!
 
 <div align="center" width="100%">
   <a href="mailto:juathanduarte13@gmail.com">
@@ -12,14 +12,12 @@
   </a>
 </div>
 
-### :eyes: Sobre mim :eyes:
-  - 👨‍🎓 Estudante de Ciência da Computação na Universidade Federal de Pelotas.
-  
-  - 🎯 Desenvolvedor Full-Stack & Mobile.
-  
-  - ❤️ Apaixonado por tecnologia, design, jogos, esportes e um bom chimarrão.
+## About me
+  - 👨‍🎓 Computer Science student at the Federal University of Pelotas;
+  - 🎯 Full-Stack & Mobile Developer;
+  - ❤️ Passionate about technology, design, games, sports, and a good chimarrão.
 
-### ⚙️ Ferramentas e tecnologias ⚙️
+## Tools and Technologies
 
 <table>
   <tr>
