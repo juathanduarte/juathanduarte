@@ -57,6 +57,9 @@
       <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
       <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
       <img alt="Linux" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" />
+      <img alt="Jira" src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+      <img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"/>
+      <img alt="SCRUM" src="https://img.shields.io/badge/scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white"/>
     </td>
   </tr>
 </table>
