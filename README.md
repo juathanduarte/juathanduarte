@@ -13,10 +13,10 @@
 </div>
 
 ## About me
-  — Computer Scientist;
-  — Full-Stack and Mobile Developer;
-  — Passionate about technology, design, games, sports and a good chimarrão.
-  — My mission is clear: it is not just about building systems, but about ensuring that they operate efficiently, fluidly and safely, always with an eye toward innovation and continuous improvement.
+  - Computer Scientist;
+  - Full-Stack and Mobile Developer;
+  - Passionate about technology, design, games, sports and a good chimarrão.
+  - My mission is clear: it is not just about building systems, but about ensuring that they operate efficiently, fluidly and safely, always with an eye toward innovation and continuous improvement.
 
 ## Tools and Technologies
 
