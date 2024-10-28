@@ -46,6 +46,7 @@
       <img alt="NestJS" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
       <img alt="Prisma" src="https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
       <img alt="SQL" src="https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=sql&logoColor=white"/>
+      <img alt="SQLite" src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
     </td>
     <td style="width:25% text-align:center;">
       <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
