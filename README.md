@@ -1,4 +1,4 @@
-## Olá! Meu nome é Juathan, mas você pode me chamar de Juats! 😃
+## Olá! Meu nome é Juathan, mas você pode me chamar de Juats!
 
 <div align="center" width="100%">
   <a href="mailto:juathanduarte13@gmail.com">
@@ -14,7 +14,7 @@
 
 ## Sobre mim
   - Cientista da Computação;
-  - Desenvolvedor Full-Stack;
+  - Desenvolvedor Full-Stack e Mobile;
   - Apaixonado por tecnologia, design, games, esportes e um bom chimarrão;
   - Minha missão é clara: não se trata apenas de construir sistemas, mas de garantir que eles operem de forma eficiente, fluida e segura, sempre com foco na inovação e na melhoria contínua.
 
@@ -38,6 +38,7 @@
       <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
       <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
       <img alt="Ant Design" src="https://img.shields.io/badge/ant%20design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white"/>
+      <img alt="Vitest" src="https://img.shields.io/badge/vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white"/>
     </td>
     <td style="width:25%; text-align:center;">
       <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -53,6 +54,11 @@
     </td>
     <td style="width:25% text-align:center;">
       <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img alt="Expo" src="https://img.shields.io/badge/expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+      <img alt="Redux" src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+      <img alt="Zustand" src="https://img.shields.io/badge/zustand-FF5A5F?style=for-the-badge&logo=react&logoColor=white"/>
+      <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+      <img alt="Jest" src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
     </td>
     <td style="width:25%; text-align:center;">
       <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
