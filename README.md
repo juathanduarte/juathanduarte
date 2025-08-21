@@ -1,24 +1,24 @@
-## Hello! My name is Juathan, but you can call me Juats!
+## Olá! Meu nome é Juathan, mas você pode me chamar de Juats! 😃
 
 <div align="center" width="100%">
   <a href="mailto:juathanduarte13@gmail.com">
-    <img align="center" alt="Juathan's Mail" height="30px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
+    <img align="center" alt="E-mail do Juathan" height="30px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
   <a href="https://wa.me/5553999515492">
-    <img align="center" alt="Juathan's WhatsApp" height="30px" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img align="center" alt="WhatsApp do Juathan" height="30px" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/juathanduarte/">
-    <img align="center" alt="Juathan's Linkdein" height="30px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+    <img align="center" alt="LinkedIn do Juathan" height="30px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
 </div>
 
-## About me
-  - Computer Scientist;
-  - Full-Stack and Mobile Developer;
-  - Passionate about technology, design, games, sports and a good chimarrão;
-  - My mission is clear: it is not just about building systems, but about ensuring that they operate efficiently, fluidly and safely, always with an eye toward innovation and continuous improvement.
+## Sobre mim
+  - Cientista da Computação;
+  - Desenvolvedor Full-Stack;
+  - Apaixonado por tecnologia, design, games, esportes e um bom chimarrão;
+  - Minha missão é clara: não se trata apenas de construir sistemas, mas de garantir que eles operem de forma eficiente, fluida e segura, sempre com foco na inovação e na melhoria contínua.
 
-## Tools and Technologies
+## Ferramentas e Tecnologias
 
 <table>
   <tr>
