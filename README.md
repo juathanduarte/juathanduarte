@@ -14,7 +14,7 @@
 
 ## Sobre mim
   - Cientista da Computação;
-  - Desenvolvedor Full-Stack e Mobile;
+  - Desenvolvedor Full-Stack;
   - Apaixonado por tecnologia, design, games, esportes e um bom chimarrão;
   - Minha missão é clara: não se trata apenas de construir sistemas, mas de garantir que eles operem de forma eficiente, fluida e segura, sempre com foco na inovação e na melhoria contínua.
 
